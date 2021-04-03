@@ -1,0 +1,5 @@
+1|Marko|Markovic|Branka Radicevica 5 Novi Sad|0611234567|-0.25
+2|Ivan|Radovancev|Marsala Tita 20 Kula|0645679823|+0.75
+3|Jaksa|Draskovic|Bulevar Oslobodjenja 56 Novi Sad|0604596437|-0.5
+4|Aleksandar|Major|Bulevar Kralja Petra Prvog 74 Novi Sad|0631952486|+0.5
+5|Ratomir|Sekerus|Marsala Tita 2 Kula|0615249123|+0.75
